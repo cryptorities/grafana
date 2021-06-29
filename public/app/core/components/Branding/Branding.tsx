@@ -58,8 +58,8 @@ export class Branding {
   static LoginBackground = LoginBackground;
   static MenuLogo = MenuLogo;
   static LoginBoxBackground = LoginBoxBackground;
-  static AppTitle = 'Snowball pool';
-  static LoginTitle = 'Welcome to Snowball pool';
+  static AppTitle = 'SnowBall mining pool';
+  static LoginTitle = 'Welcome to SnowBall mining pool';
   static GetLoginSubTitle = (): null | string => {
     return null;
   };
